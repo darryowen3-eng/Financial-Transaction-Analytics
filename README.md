@@ -14,7 +14,6 @@ An end-to-end data analytics built using financial transaction dataset.
 - PostgreSQL
 - SQL
 - Power BI
-- Excel
 ---
 
 ## Pipeline
